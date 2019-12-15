@@ -1,8 +1,1 @@
-print("hello world")
-print("hello world againgafsdfsdfsf form the remote repo")
-print("hello world again from new user")
-print("why this colabery")
-print("Mula sandesh")
-print("Hamile Sikkyau ")
-print("Katta khanxas ")
-print("Class siddiya paxi sikkiyanau vynee ")
+
